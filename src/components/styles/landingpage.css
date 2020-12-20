@@ -1,0 +1,109 @@
+.landingpage-body {
+  position: absolute;
+  left: 0;
+  top: 0;
+  height: 100%;
+  width: 100%;
+  background: url("../../components/pictures/bg.png");
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+}
+
+.side-container {
+  position: relative;
+  height: 70%;
+  width: 70%;
+  background: white;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  border-radius: 15px;
+}
+
+.leftside {
+  position: relative;
+  height: 100%;
+  width: 65%;
+  background: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.rightside {
+  position: relative;
+  height: 100%;
+  width: 35%;
+  background: rgb(3, 3, 82);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.title-div {
+  position: relative;
+  height: 65%;
+  width: 100%;
+  border-top-left-radius: 5px;
+  background: url("../../components/pictures/hci.png");
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.button-div {
+  position: relative;
+  height: 35%;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.handlerButtons {
+  position: absolute;
+  top: 20%;
+  height: 45px;
+  width: 200px;
+  border: none;
+  outline: none;
+  background: rgb(19, 19, 19);
+  color: white;
+  font-weight: normal;
+  font-size: 15px;
+  cursor: pointer;
+  transition: 0.5s;
+}
+.handlerButtons:hover {
+  background: rgb(73, 73, 73);
+  color: rgb(197, 197, 197);
+}
+#moduleAssignmentsBtn {
+  left: 20%;
+}
+#syllabusBtn {
+  right: 20%;
+}
+
+.topside {
+  position: relative;
+  height: 50%;
+  width: 100%;
+  background: url("../../components/pictures/topsidebg.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+.bottomside {
+  position: relative;
+  height: 50%;
+  width: 100%;
+  background: url("../../components/pictures/bottomside.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
