@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/eportfolioapp/static/css/main.a2d314fd.chunk.css",
+    "main.js": "/eportfolioapp/static/js/main.0c770020.chunk.js",
+    "main.js.map": "/eportfolioapp/static/js/main.0c770020.chunk.js.map",
+    "runtime-main.js": "/eportfolioapp/static/js/runtime-main.4a2cdbb0.js",
+    "runtime-main.js.map": "/eportfolioapp/static/js/runtime-main.4a2cdbb0.js.map",
+    "static/js/2.f47fe5d4.chunk.js": "/eportfolioapp/static/js/2.f47fe5d4.chunk.js",
+    "static/js/2.f47fe5d4.chunk.js.map": "/eportfolioapp/static/js/2.f47fe5d4.chunk.js.map",
+    "index.html": "/eportfolioapp/index.html",
+    "static/css/main.a2d314fd.chunk.css.map": "/eportfolioapp/static/css/main.a2d314fd.chunk.css.map",
+    "static/js/2.f47fe5d4.chunk.js.LICENSE.txt": "/eportfolioapp/static/js/2.f47fe5d4.chunk.js.LICENSE.txt",
+    "static/media/ICT 116-Module-4-HCI.db49ab39.pdf": "/eportfolioapp/static/media/ICT 116-Module-4-HCI.db49ab39.pdf",
+    "static/media/ICT 116_BSCS_1st Sem, AY 2020-2021.5a145dd0.pdf": "/eportfolioapp/static/media/ICT 116_BSCS_1st Sem, AY 2020-2021.5a145dd0.pdf",
+    "static/media/ICT 116_Design_Rules_1.9efa6e50.pdf": "/eportfolioapp/static/media/ICT 116_Design_Rules_1.9efa6e50.pdf",
+    "static/media/ICT 116_Implementation Support .0b5f79bf.pdf": "/eportfolioapp/static/media/ICT 116_Implementation Support .0b5f79bf.pdf",
+    "static/media/ICT 116_Module_1-HCI.9aeea7f9.pdf": "/eportfolioapp/static/media/ICT 116_Module_1-HCI.9aeea7f9.pdf",
+    "static/media/ICT-116-Module-2-HCI.a5ba6530.pdf": "/eportfolioapp/static/media/ICT-116-Module-2-HCI.a5ba6530.pdf",
+    "static/media/ICT-116-Module-3-HCI.40be00a0.pdf": "/eportfolioapp/static/media/ICT-116-Module-3-HCI.40be00a0.pdf",
+    "static/media/ICT116_Assignment1_Girao.1bef65f9.docx": "/eportfolioapp/static/media/ICT116_Assignment1_Girao.1bef65f9.docx",
+    "static/media/UNDERSTANDING-and-CONCEPTUALIZING-INTERACTION.2ddc193f.pdf": "/eportfolioapp/static/media/UNDERSTANDING-and-CONCEPTUALIZING-INTERACTION.2ddc193f.pdf",
+    "static/media/landingpage.css": "/eportfolioapp/static/media/topsidebg.d4a6b23c.png",
+    "static/media/modulesAssignmentsStyles.scss": "/eportfolioapp/static/media/bg2.b86d9ce2.png",
+    "static/media/compare.91669c6f.docx": "/eportfolioapp/static/media/compare.91669c6f.docx"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4a2cdbb0.js",
+    "static/js/2.f47fe5d4.chunk.js",
+    "static/css/main.a2d314fd.chunk.css",
+    "static/js/main.0c770020.chunk.js"
+  ]
+}
