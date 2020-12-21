@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/eportfolioapp/static/css/main.73e879bb.chunk.css",
-    "main.js": "/eportfolioapp/static/js/main.ee8289f3.chunk.js",
-    "main.js.map": "/eportfolioapp/static/js/main.ee8289f3.chunk.js.map",
+    "main.css": "/eportfolioapp/static/css/main.2da8efd0.chunk.css",
+    "main.js": "/eportfolioapp/static/js/main.47edeb98.chunk.js",
+    "main.js.map": "/eportfolioapp/static/js/main.47edeb98.chunk.js.map",
     "runtime-main.js": "/eportfolioapp/static/js/runtime-main.4a2cdbb0.js",
     "runtime-main.js.map": "/eportfolioapp/static/js/runtime-main.4a2cdbb0.js.map",
     "static/js/2.f2f530a9.chunk.js": "/eportfolioapp/static/js/2.f2f530a9.chunk.js",
     "static/js/2.f2f530a9.chunk.js.map": "/eportfolioapp/static/js/2.f2f530a9.chunk.js.map",
     "index.html": "/eportfolioapp/index.html",
-    "static/css/main.73e879bb.chunk.css.map": "/eportfolioapp/static/css/main.73e879bb.chunk.css.map",
+    "static/css/main.2da8efd0.chunk.css.map": "/eportfolioapp/static/css/main.2da8efd0.chunk.css.map",
     "static/js/2.f2f530a9.chunk.js.LICENSE.txt": "/eportfolioapp/static/js/2.f2f530a9.chunk.js.LICENSE.txt",
     "static/media/ICT 116-Module-4-HCI.db49ab39.pdf": "/eportfolioapp/static/media/ICT 116-Module-4-HCI.db49ab39.pdf",
     "static/media/ICT 116_BSCS_1st Sem, AY 2020-2021.5a145dd0.pdf": "/eportfolioapp/static/media/ICT 116_BSCS_1st Sem, AY 2020-2021.5a145dd0.pdf",
@@ -18,6 +18,8 @@
     "static/media/ICT-116-Module-2-HCI.a5ba6530.pdf": "/eportfolioapp/static/media/ICT-116-Module-2-HCI.a5ba6530.pdf",
     "static/media/ICT-116-Module-3-HCI.40be00a0.pdf": "/eportfolioapp/static/media/ICT-116-Module-3-HCI.40be00a0.pdf",
     "static/media/ICT116_Assignment1_Girao.1bef65f9.docx": "/eportfolioapp/static/media/ICT116_Assignment1_Girao.1bef65f9.docx",
+    "static/media/INTERFACES.7e8f91d3.pdf": "/eportfolioapp/static/media/INTERFACES.7e8f91d3.pdf",
+    "static/media/SOCIAL-INTERACTION.6af38164.pdf": "/eportfolioapp/static/media/SOCIAL-INTERACTION.6af38164.pdf",
     "static/media/UNDERSTANDING-and-CONCEPTUALIZING-INTERACTION.2ddc193f.pdf": "/eportfolioapp/static/media/UNDERSTANDING-and-CONCEPTUALIZING-INTERACTION.2ddc193f.pdf",
     "static/media/landingpage.css": "/eportfolioapp/static/media/topsidebg.d4a6b23c.png",
     "static/media/modulesAssignmentsStyles.scss": "/eportfolioapp/static/media/bg2.b86d9ce2.png",
@@ -26,7 +28,7 @@
   "entrypoints": [
     "static/js/runtime-main.4a2cdbb0.js",
     "static/js/2.f2f530a9.chunk.js",
-    "static/css/main.73e879bb.chunk.css",
-    "static/js/main.ee8289f3.chunk.js"
+    "static/css/main.2da8efd0.chunk.css",
+    "static/js/main.47edeb98.chunk.js"
   ]
 }
