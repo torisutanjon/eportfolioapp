@@ -18,6 +18,7 @@
   overflow: hidden;
   -webkit-font-smoothing: antialiased;
 }
+
 .back__btn__Link {
   position: absolute;
   top: 20%;
@@ -219,4 +220,27 @@
 }
 .downloadHasValue {
   background: rgba(110, 107, 107, 0.507);
+}
+
+@media screen and (max-width: 376px) {
+  .back__btn__Link {
+    top: 3%;
+    left: 5%;
+  }
+  .deck {
+    width: 19em;
+    height: 25em;
+  }
+  .deck__label {
+    font-size: 10px;
+  }
+  .deck__module {
+    font-size: 12px;
+  }
+  .deck__assignment {
+    font-size: 10px;
+  }
+  .deck__download {
+    font-size: 8px;
+  }
 }

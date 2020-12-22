@@ -81,11 +81,21 @@ $list: module1 #d63333, module2 #9cd441, module3 #4ae277, module4 #47aedd,
   module5 #4958d8, module6 #b44bd4, module7 #dac346, module8 #8746dd,
   module9 #d642b6, module10 #db6f44, module11 #4447db, module12 #44db5d;
 
-$deg: 50;
+$deg: 65;
 @each $item in $list {
   .deck__item--#{nth($item, 1)} {
     background: nth($item, 2);
     transform: rotate(#{$deg}deg);
   }
   $deg: $deg - 10;
+}
+
+@media screen and (max-width: 376px) {
+  .deck {
+    width: 8em;
+    height: 12.5em;
+    left: 50%;
+    top: 60%;
+    transform: translate(-50%, -50%);
+  }
 }

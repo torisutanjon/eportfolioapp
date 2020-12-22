@@ -102,6 +102,8 @@ html {
 }
 .handlerButtons {
   position: absolute;
+  left: 0;
+  top: 0;
   height: 100%;
   width: 100%;
   border: none;
@@ -118,7 +120,7 @@ html {
   align-items: center;
   text-align: center;
 }
-.handlerButtonsLink {
+/* .handlerButtonsLink {
   height: 100%;
   width: 100%;
   text-decoration: none;
@@ -127,7 +129,7 @@ html {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-}
+} */
 .handlerButtons:hover {
   background: rgb(73, 73, 73);
   color: rgb(197, 197, 197);
@@ -144,6 +146,7 @@ html {
   height: 50%;
   width: 100%;
   background: url("../../components/pictures/topsidebg.png");
+
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -156,4 +159,41 @@ html {
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
+}
+@media screen and (max-width: 376px) {
+  .title-div {
+    background: url("../../components/pictures/hci.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+  }
+  .side-container {
+    height: 85%;
+    width: 90%;
+    flex-direction: column;
+    justify-content: space-around;
+  }
+  .leftside {
+    height: 50%;
+    width: 100%;
+  }
+  .rightside {
+    height: 50%;
+    width: 100%;
+  }
+  .handler__buttons__div {
+    width: 40%;
+  }
+  .topside {
+    background: url("../../components/pictures/topsidebg_mobile.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+  }
+  .bottomside {
+    background: url("../../components/pictures/bottomside_mobile.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+  }
 }
