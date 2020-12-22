@@ -1,5 +1,4 @@
 import "./App.css";
-import ModulesAssignments from "./components/ModulesAssignments";
 import LandingPage from "./components/LandingPage";
 import { BrowserRouter, Route, Switch } from "react-router-dom";
 
@@ -9,12 +8,7 @@ function App() {
       {/* ROUTING */}
       <BrowserRouter>
         <Switch>
-          <Route exact path="/" component={LandingPage} />
-          <Route
-            exact
-            path="/moduleAssignments"
-            component={ModulesAssignments}
-          />
+          <Route path="/" component={LandingPage} />
         </Switch>
       </BrowserRouter>
     </div>

@@ -1,10 +1,35 @@
-.landingpage-body {
+@-moz-document url-prefix() {
+  .body {
+    float: left;
+    overflow-x: hidden;
+  }
+}
+html {
+  scroll-behavior: smooth;
+  overflow-x: hidden;
+}
+.body {
   position: absolute;
+  margin: 0;
+  padding: 0;
+  top: 0;
   left: 0;
+  height: 210%;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  overflow-x: hidden;
+}
+.landingpage-body {
+  position: relative;
   top: 0;
   height: 100%;
   width: 100%;
   background: url("../../components/pictures/bg.png");
+  background-size: cover;
+  background-repeat: no-repeat;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -61,14 +86,24 @@
   height: 35%;
   width: 100%;
   display: flex;
-  justify-content: center;
+  flex-direction: row;
   align-items: center;
+  justify-content: space-around;
+}
+.handler__buttons__div {
+  position: relative;
+  height: 45px;
+  width: 30%;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  background: black;
 }
 .handlerButtons {
   position: absolute;
-  top: 20%;
-  height: 45px;
-  width: 200px;
+  height: 100%;
+  width: 100%;
   border: none;
   outline: none;
   background: rgb(19, 19, 19);
@@ -77,6 +112,21 @@
   font-size: 15px;
   cursor: pointer;
   transition: 0.5s;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+.handlerButtonsLink {
+  height: 100%;
+  width: 100%;
+  text-decoration: none;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
 }
 .handlerButtons:hover {
   background: rgb(73, 73, 73);
